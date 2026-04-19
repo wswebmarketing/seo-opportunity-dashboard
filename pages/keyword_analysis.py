@@ -18,7 +18,7 @@ dash.register_page(
 layout = html.Div(
     [
         html.H1(
-            "Estamos na página de oportunidades de palavras-chave",
+            "Identificação de oportunidades de palavras-chave",
             className = "text-center fw-bold"
         ),
         dbc.Row(
